@@ -1,6 +1,6 @@
 # SvelteKit Auth
 
-This is a fork of [](https://github.com/joysofcode/sveltekit-auth-cookies.git)
+This is a fork of [https://github.com/joysofcode/sveltekit-auth-cookies.git](https://github.com/joysofcode/sveltekit-auth-cookies.git)
 
 Learn SvelteKit authentication using cookies.
 
